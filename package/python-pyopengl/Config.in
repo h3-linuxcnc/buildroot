@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PYTHON_PYOPENGL
+	bool "python-pyopengl"
+	help
+	  python-pyopengl
